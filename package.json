@@ -9,6 +9,7 @@
         "redis":"~0.10.1",
         "node-red": "~0.x",
         "node-red-contrib-admin":"0.x",
-        "node-red-contrib-join-joaoapps":"~1.x"
-    }
+        "node-red-contrib-join-joaoapps":"~1.x",
+        "node-red-contrib-home-assistant":"~0.x"
+          }
 }
